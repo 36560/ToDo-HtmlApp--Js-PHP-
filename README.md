@@ -1,8 +1,8 @@
 # ToDo-WWW-App
 
-##Simple web app to manage own daily tasks. 
+## Simple web app to manage own daily tasks. 
 
-###Functionalities
+### Functionalities
 The webpage constist of a login/register screen and main screen after login.
 
 
