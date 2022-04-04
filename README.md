@@ -14,5 +14,12 @@ App contains CRUD operations:
 - update task
 - delete task or unchecked and delete another day (?)
 
+### Structure of base
+Database contains table with tasks, users and categories. 
+User password is encrypted by default algorithm (bcrypt) in PHP 5.5.0.
+
+
+IMAGE with base and 
+
 
 
