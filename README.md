@@ -20,6 +20,6 @@ User password is encrypted by default algorithm (bcrypt) in PHP 5.5.0.
 
 
 IMAGE with base and 
-
+Example of base
 
 
