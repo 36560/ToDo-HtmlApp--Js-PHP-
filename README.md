@@ -37,6 +37,8 @@ App contains:
 Database contains table with tasks, users and categories. 
 User password is encrypted by default algorithm (bcrypt) in PHP 5.5.0.
 
+'Base' folder contains example database in mysql format.
+
 #### Database example view
 ![base](https://user-images.githubusercontent.com/67658221/164253041-cbe823ff-f3cb-436c-a2ab-558fa49e43ac.png)
 
