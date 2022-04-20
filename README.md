@@ -14,9 +14,9 @@
 ---
 
 ### Content
-The webpage constist of a login/register screen and main screen after login.
+The web page constist of a login/register screen and main screen after login.
 
-#### Screen after register
+#### Screen after successful register
 
 ![register](https://user-images.githubusercontent.com/67658221/164249507-54155715-e1c1-46c4-8720-9c93d6761d80.png)
 
@@ -28,7 +28,7 @@ App contains:
  - deleting checked tasks from past
  - Grouping task by deadline to future, today or past tasks
  - displaying welcome info (depends on the time of day)
- - sort task by category, title or deadline 
+ - sorting task by category, title or deadline 
  - search tasks by title without page refreshing
  
 ---
