@@ -1,4 +1,4 @@
-# ToDo-WWW-App
+# ToDo-Web-App
 
 ## Simple web app to manage daily tasks
 
