@@ -81,8 +81,7 @@
                     },
                     cache: false,
                     success: function(data) 
-                    {  
-                        //$(ajaxDisplay).find('tr').fadeIn(400);   
+                    {   
                         ajaxDisplay.innerHTML = data;                     
                     },
                     error: function(xhr, status, error) 

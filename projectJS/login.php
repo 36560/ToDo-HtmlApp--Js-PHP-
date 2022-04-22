@@ -6,7 +6,7 @@
     <div class="jumbotron  ">
     <div class="container text-center">
     <i class="fas fa-door-open"></i>
-    <h3>Zaloguj</h3> 
+    <h3>Login</h3> 
     <?php    
       if(isset($_SESSION["error"]))
       {
