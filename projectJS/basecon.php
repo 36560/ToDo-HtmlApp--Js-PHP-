@@ -1,7 +1,7 @@
 <?php
 
     $conn = mysqli_connect("localhost","root","","todojs");
-    session_start();
+
 
     if(isset($_SESSION["username"]))
     {
@@ -61,6 +61,7 @@
                 {
                     if(password_verify($pass, $row["password"]))
                     {
+                        session_start();
                         $_SESSION["username"] = $username;
                         $_SESSION["id"] = $row["id"];
                         header("location:main.php");
