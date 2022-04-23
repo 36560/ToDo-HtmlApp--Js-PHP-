@@ -1,4 +1,5 @@
 # ToDo-Web-App
+<img align="right" width="150" height="150" src="https://img.icons8.com/cute-clipart/344/task.png">
 
 ## Simple web app to manage daily tasks
 
